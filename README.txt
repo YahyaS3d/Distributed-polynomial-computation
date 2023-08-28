@@ -1,5 +1,5 @@
 Distributed polynomial computation
-Authored by Yahya Saad  
+Authored by Yahya Saad  :) 
 
 ==Description==
 this program performs operations on polynomials. The programs are designed to work together and demonstrate interprocess communication using shared memory and semaphores
